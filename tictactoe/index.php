@@ -15,7 +15,7 @@ if (!isset($_SESSION['game']['tictac']))
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="Eezipay Quick Tick Tack Toe Test">
 		<meta name="keywords" content="PHP, Tic Tac Toe, HTML, CSS">
-		<meta name="author" content="MugoTech">
+		
 	</head>
 
 	<body>
